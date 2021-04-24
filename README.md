@@ -6,7 +6,7 @@ Small demo app for the Number Rolodex I am using in my [Pragmatic Programmer Dai
 
 ## TODO
 
-- [] Add a change of number upon hovering, triggered after a moment on hovering.
+- [ ] Add a change of number upon hovering, triggered after a moment on hovering.
 
 ## Demo
 
