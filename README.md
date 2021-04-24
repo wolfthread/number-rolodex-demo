@@ -2,11 +2,15 @@
 
 Small demo app for the Number Rolodex I am using in my [Pragmatic Programmer Daily Tip Generator](https://pragmaticprogrammertips.netlify.app/)
 
-![](https://github.com/wolfthread/images-for-react-components-showcase/blob/main/number-rolodex/number-rolodex.gif)
+![](https://github.com/syldess/images-for-react-components-showcase/blob/main/number-rolodex/number-rolodex.gif)
+
+## TODO
+
+- [] Add a change of number upon hovering, triggered after a moment on hovering.
 
 ## Demo
 
-Try it on [CodePen](https://codepen.io/wolfthread/full/vYXpNKL).
+Try it on [CodePen](https://codepen.io/syldess/full/vYXpNKL).
 
 ## License
 
